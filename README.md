@@ -1,2 +1,2 @@
 # Intent_Classification
-An intent classifier which can classifies a query into one of the 21 given intents.
+This is an attempt to develope basic intent classification for Turkish Sentences.
